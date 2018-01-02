@@ -9,4 +9,9 @@ Python教程
 
 x新增
 Creating a new branch is quick AND simple.
+<<<<<<< HEAD
 master 分支
+=======
+wzx_分支
+>>>>>>> wzx
+合并之后
